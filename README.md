@@ -46,12 +46,3 @@ Like the framework used for `Linguistic Harbingers of Betrayal`, we would like t
 **Week 4:** video preparing.
 
 
-**7. Organization within the team:**
-
-Shijian will handle downloading, merging, selecting and pairing the dataset in week 1. The resulting code and datasets will be shared with other members of the team. Then, Qinyue, Siran and Shijian will focus on `politeness`, `sentiment` and `talkativeness` features selecting and computing respectively. 
-
-In week 2, Siran will analyze the linguistic imbalances in three different features, and Shijian will analyze the predictive power of the linguistic cue. Qinyue will help other group members solve the remaining coding problems. Group members will communicate and share data analysis ideas and methods with each other.
-
-In week 3, Qinyue will focus on writing the data story and Siran will prepare all needed figures and examples. 
-
-In week 4, Shijian will focus on preparing the short video with the main ideas, and Siran and Qinyue will help him finish it. 
